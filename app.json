@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "LETSCHATAPP",
+    "slug": "letschatapp",
+    "version": "0.6.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.letschatapp.mobile",
+      "googleServicesFile": "./google-services.json"
+    },
+    "plugins": ["@react-native-firebase/app"],
+    "web": { "bundler": "metro" }
+  }
+}
