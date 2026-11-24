@@ -170,7 +170,7 @@ Foi decidido remover completamente a faixa superior azul-escura que apresentava:
 - MARCAS.
 
 A remoção diz respeito à faixa de navegação superior, não à eliminação das funcionalidades. Cada funcionalidade continua a ser acedida no seu menu, ecrã ou controlo próprio.
-
+ 
 Não criar uma nova faixa superior equivalente para voltar a agrupar esses atalhos.
 
 ## 4.4 Áreas que não alteram os cinco menus
